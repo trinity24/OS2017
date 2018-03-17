@@ -1,1 +1,1 @@
-# SBU_OS
+A pre-emptive multitasking OS
